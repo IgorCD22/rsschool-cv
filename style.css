@@ -1,1 +1,27 @@
+@font-face {
+    font-family: JosefinSans;
+     src: url("assets/fonts/JosefinSans-Italic-VariableFont_wght.ttf");
+   }
+   .bgp {
+    width: 121px;
+    height: 45px;
+    background-image: url("./assets/svg/bgp.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+body {
+    
 
+      
+    font-family: 'JosefinSans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #1121ad;
+    background-color: rgba(255, 255, 255, 0.5)
+
+  }
+  m10 + Tab = margin: 100px;
+p10 + Tab = padding: 100px;
+
+bgi + Tab = background-image: url();
