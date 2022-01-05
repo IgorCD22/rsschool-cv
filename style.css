@@ -24,7 +24,6 @@
       flex-wrap: wrap;
       align-content: stretch;
       align-items: center;
-
   }
 
   .header {
@@ -34,7 +33,7 @@
     box-shadow: 10px 10px 50px 5px rgb(0 0 0 / 60%);
     font-size: large;
     margin: 0 auto;
-      }
+  }
 
   .article {
     width: 42%;
@@ -86,6 +85,7 @@
       align-items: stretch;
       align-content: stretch;
 }
+
 .portfolio {
   display: flex;
   flex-direction: row;
